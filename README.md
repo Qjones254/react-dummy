@@ -1,4 +1,5 @@
 # react-dumy
+**I tried redirecting the click event to another page with a message but was unable**
 To view this code on your desktop,go ahead and;
   Fork it on your github
   copy the ssh key
