@@ -18,7 +18,7 @@ const LoginForm=()=>{
         <div className='remember'>
             <a href="#">Forgot Password</a>
             </div>
-            <div><button onClick={alert('You clicked me!')} type='submit'>Login</button>
+            /*<div> < button type='submit'>Login</button>
         </div>
      </form>
 
